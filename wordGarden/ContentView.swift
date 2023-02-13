@@ -53,7 +53,6 @@ struct ContentView: View {
                     
                     Button("Guess a Letter"){
                         // comment
-                        
                     }
                     .buttonStyle(.bordered)
                     .tint(.mint)
